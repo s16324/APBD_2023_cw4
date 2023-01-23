@@ -641,11 +641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lewan\\cwiczenia-4-s16324-1\\cwiczenia-4-s16324\\cwiczenia-4-s16324.csproj",
+      "projectUniqueName": "C:\\Users\\lewan\\APBD\\4\\cwiczenia-4-s16324-1\\cwiczenia-4-s16324\\cwiczenia-4-s16324.csproj",
       "projectName": "cwiczenia-4-s16324",
-      "projectPath": "C:\\Users\\lewan\\cwiczenia-4-s16324-1\\cwiczenia-4-s16324\\cwiczenia-4-s16324.csproj",
+      "projectPath": "C:\\Users\\lewan\\APBD\\4\\cwiczenia-4-s16324-1\\cwiczenia-4-s16324\\cwiczenia-4-s16324.csproj",
       "packagesPath": "C:\\Users\\lewan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lewan\\cwiczenia-4-s16324-1\\cwiczenia-4-s16324\\obj\\",
+      "outputPath": "C:\\Users\\lewan\\APBD\\4\\cwiczenia-4-s16324-1\\cwiczenia-4-s16324\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lewan\\AppData\\Roaming\\NuGet\\NuGet.Config",
